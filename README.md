@@ -6,6 +6,4 @@
 </h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geloquan&show_icons=true&locale=en&layout=compact" alt="geloquan" /></p>
-<p>
-  [[!My Skills](https://skillicons.dev/icons?i=laravel,cs,postgres)](https://skillicons.dev)
-</p>
+[[!My Skills](https://skillicons.dev/icons?i=laravel,cs,postgres)](https://skillicons.dev)
