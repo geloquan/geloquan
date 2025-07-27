@@ -7,3 +7,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geloquan&show_icons=true&locale=en&layout=compact" alt="geloquan" /></p>
 [![My Skills](https://skillicons.dev/icons?i=laravel,cs,postgres)](https://skillicons.dev)
+<p>
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+</p>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
