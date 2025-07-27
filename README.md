@@ -8,4 +8,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geloquan&show_icons=true&locale=en&layout=compact" alt="geloquan" /></p>
 <p>
   [![My Skills](https://skillicons.dev/icons?i=laravel,cs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
