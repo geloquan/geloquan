@@ -14,7 +14,7 @@ A computer vision system that detects and tracks objects across multiple live vi
 
 ---
 
-### 🤝 ElioCare *(Active Open-Source Contribution)*
+### 🤝 ElioCare *(Active Private Contribution)*
 A project I actively contribute to — add a short line here on what it does and your role in it.
 
 <img width="937" height="858" alt="Screenshot 2026-07-09 105554" src="https://github.com/user-attachments/assets/88ec409b-8c3f-41ea-b7cf-cfc9e114d21f" />
