@@ -21,8 +21,10 @@ A project I actively contribute to — add a short line here on what it does and
 
 ---
 
-### 💼 Freelance Work
-Currently under NDA — details coming soon.
+### 💼 Proseiso *(AI/ML Software Freelance Project)*
+AI-native development tool for liaison sector business. 
+
+<img width="1898" height="937" alt="image" src="https://github.com/user-attachments/assets/b7db4b73-7a2e-4ebb-9ef9-170e463571c8" />
 
 ---
 
