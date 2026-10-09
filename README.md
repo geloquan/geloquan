@@ -21,7 +21,7 @@ AI-native development tool for liaison sector business.
 
 ---
 
-### 🤖 YourProjectName *(In Development)*
+### 🤖 QuanAI *(In Development)*
 An AI agentic harness that lets Virtual Assistants and Small Business owners delegate everyday tasks to AI agents. It is currently under active development.
 
 <img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/0b2b5e82-714f-4027-85f1-d406efdc45f3" />
