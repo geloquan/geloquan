@@ -21,6 +21,13 @@ AI-native development tool for liaison sector business.
 
 ---
 
+### 🤖 YourProjectName *(In Development)*
+An AI agentic harness that lets Virtual Assistants and Small Business owners delegate everyday tasks to AI agents. It is currently under active development.
+
+<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/0b2b5e82-714f-4027-85f1-d406efdc45f3" />
+
+---
+
 ### 📋 Project Tracker *(Full Stack Technical Assessment)*
 A full-stack project management app built with a **Laravel REST API** and a **Vue** frontend. It features a guided status flow with password-confirmed actions, a project timeline, search, filtering, and sorting. Built with GitHub Copilot (agent mode) under full human review, with every prompt and fix documented.
 
